@@ -1,0 +1,408 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.black{
+    height: 500px;
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIW9k5qVaZ7DFDXaDYGMw3-cUAUvNb0LoQEQ&usqp=CAU);
+    display: block;
+    background-color: black;
+    color: white;
+        padding-top: 30px;
+        padding-bottom: 15%;
+}
+h4{
+font-size: 40px;
+    color: black;
+    padding-bottom: 40px;
+    left: 400px;
+}
+.navbar{
+left: 1100px;
+    position: fixed;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.547);
+    display: flex;
+    justify-content: space-around;
+    width: 700px;
+    height: 30px;
+    font-size: 20px;
+    list-style: none;
+margin: auto;
+
+}
+.navbar li:hover{
+    border-bottom: 1px solid black;
+font-size: 20px;
+}
+.circle img{
+    border-radius: 100px;
+    margin-top: 10px;
+}
+.circle{
+    background: url("https://i.pinimg.com/originals/1d/a3/66/1da3663ce1d7d0f6098a31a667e862b4.gif");
+    width: 250px;
+    height: 250px;
+    background-color: grey;
+    border-radius: 50%;
+}
+.card{
+    text-align: center;
+    width: 250px;
+    margin: auto;
+    margin-top: 10%;
+
+}
+.card h1{
+    font-family: cursive;
+    color: gold;
+    font-weight: 900;
+}
+.card p{
+    font-size: 20px;
+}
+.icons{
+    position: absolute;
+    top: 300px;
+    left: 30px;
+}
+
+.icon{
+    margin-top: 10px;
+    background-color: grey;
+    padding: 5px;
+    width: 30px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+}
+.grey{
+    width: 100%; ;
+    height: 600px;
+    background-color: grey;
+    display: flex;
+    height: 900px;
+    align-items: center;
+    justify-content: center;
+}
+.kard{
+    width: 300px;
+    height: 500px;
+    background-color: rgba(255, 255, 255, 0.491);
+border-radius: 30px;
+margin-left: 10%;
+}
+.text h1{
+    color: gold;
+}
+.text{
+    width: 50%;
+display: block;
+margin-left: 40px;
+color: white;
+}
+.title{
+    padding-bottom: 100px;
+    color: black;
+    width: 300px;
+    font-weight: 400;
+    font-size: 40px;
+    display: flex;
+    align-items: center;
+}
+.text p{
+    width: 700px;
+}
+.line{
+    width: 100px;
+    border: 1px solid white;
+    height: 0px;
+    margin-left: 20px;
+}
+.pr{
+    display: flex;
+    font-size: 23px;
+    justify-content: space-around;
+    color: gold;
+}
+.pr div{
+    color: white;
+}
+.qowni{
+    margin-top: -40px;
+    background-color: black;
+    width: 100%;
+    height: 190px;
+    padding-bottom: 800px;
+}
+.abuuz{
+    color: white;
+    margin-left: 900px;
+    font-size: 50px;
+}
+.abbas{
+    justify-content: space-around;
+    display: flex;
+    color: white;
+    margin-left: 60px;
+    font-size: 25px;
+}
+.card1{
+    padding-top: 90px;
+    background-color: white;
+    width: 350px;
+    height: 150px;
+    border-radius: 20px;
+margin: auto;
+margin-top: 130px;
+}
+.akbar{
+    background: url("https://wallpapercave.com/wp/wp2757889.gif");
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    padding-bottom: 5%;
+}
+.abbas p:hover{
+    border-bottom: 1px solid gold;
+}
+.card2{
+    width: 300px;
+    height: 500px;
+    background-color: rgba(255, 255, 255, 0.491);
+border-radius: 30px;
+transform: rotate(-5deg);
+
+}
+.card2 img{
+    width: 300px;
+    height: 500px;
+    border-radius: 30px;
+}
+.gray{
+    background-color: grey;
+    width: 100%;
+    height: 900px;
+}
+.iteen{
+    background-color: grey;
+    width: 100%;
+    height: 600px;
+    padding-right: 200px;
+    padding-top: 200px;
+    display: flex;
+justify-content: space-around;
+}
+.fanta{
+    color: white;
+margin-left: 880px;
+}
+.cards {
+    background-color: grey;
+width: 1700px;
+}
+.card4{
+    background-color: black;
+    width: 400px;
+    height: 500px;
+border-radius: 25px;
+}
+.cla{
+    padding-left: 80px;
+    color: gold;
+    font-size: 40px;
+}
+.cl{
+    padding-left: 80px;
+    color: gold;
+    font-size: 40px;
+}
+.clas{
+    padding-left: 80px;
+    color: gold;
+    font-size: 40px;
+}
+.pe{
+    padding-left: 15px;
+color: white;
+font-size: 30px;
+}
+.pep{
+    padding-left: 15px;
+    color: white;
+    font-size: 30px;
+}
+.pepsi{
+    padding-left: 15px;
+    color: white;
+    font-size: 30px;
+}
+h3{
+    color: gold;
+    padding-top: 90px;
+}
+.co{
+    color: gold;
+    padding-left: 160px;
+    padding-top: 90px;
+}
+.la{
+    color: gold;
+    padding-left: 160px;
+    padding-top: 90px;
+}
+.cardchalar{
+    background: url("https://thumbs.gfycat.com/LimitedFrankCollie-max-1mb.gif");
+    background-color: black;
+    width: 100%;
+    height: 1000px;
+}
+.df{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+
+}
+.fg{
+    margin-top: 100px;
+    margin-left: 50px;
+}
+.sprite{
+    color: white;
+    margin-left: 900px;
+    font-size: 45px;  
+}
+.vis{
+    background-color: rgba(0, 0, 0, 0.598);
+    color: gold;
+    margin-top: 70px;
+    margin-right: 90px;
+    font-size: 50px;
+    font-family: cursive;
+}
+
+.cardchalar p{
+    background-color: rgba(255, 255, 255, 0.571);
+    color: black;
+    width: 500px;
+    font-size: 30px;
+}
+.abu28{
+    font-family: cursive;
+}
+input{
+    color: black;
+    background-color: gray;
+    border-radius: 20px;
+    width: 300px;
+    height: 50px;
+    display: block;
+    justify-content: space-around;
+    margin-top: 30px;
+    padding-top: 10px;
+}
+.navbar li:hover{
+animation-name: abbas;
+animation-duration: 1s;
+animation-fill-mode: forwards;
+} a{
+    text-decoration: none;
+    color: beige;
+}
+.icon{
+    animation-name: abu;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+    animation-fill-mode: forwards;
+}
+.icon{
+    background-color: black;
+    width: 100px;
+}
+@keyframes abu{
+    0%{
+color: red;box-shadow: 0px 0px 0px red;margin-top: 10px;
+transform: rotate(0deg);
+    }
+    50%{color: red;box-shadow: 0px 0px 0px red;margin-top: 10px;
+        transform: rotate(10deg)}
+    100%{
+        color: red;box-shadow: 0px 0px 0px red;margin-top: 10px;
+        transform: rotate(360deg)
+    }
+}
+.abdura{
+    color: black;
+    margin-left: 20px;
+}
+.abdu{
+    height: 150px;
+    width: 290px;
+}
+button{
+    width: 220px;
+    height: 60px;
+    background-color: gold;
+    color: black;
+    border-radius: 20px;
+    margin-left: 160px;
+    margin-top: 30px;
+    font-size: 25px;
+}
+.navbahor{
+    background: url();
+    background-color: gold;
+    width: 100%;
+    height: 400px;
+    text-align: center;
+}
+h3{
+    padding-top: 40px;
+    margin-left: 10px;
+    color: black;
+}
+
+.big{
+    width: 30%;
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    margin-bottom: 50px;
+
+}
+.class{
+    margin-bottom: 60px;
+}
+.card1 img{
+    position: absolute;
+    bottom: -1170px;
+    width: 350px;
+    height: 260px;
+    border-radius: 20px;
+}
+.card3{
+    padding-top: 100px;
+    background-color: white;
+    width: 350px;
+    height: 150px;
+    border-radius: 20px;
+margin: auto;
+margin-top: 100px;
+}
+.card3 img{
+    position: absolute;
+    bottom: -1520px;
+    width: 350px;
+    height: 260px;
+    border-radius: 20px;
+}
+.iconcha{
+    display: flex;
+    justify-content: space-around;
+ 
+    color: black;
+    width: 300px;
+margin-bottom: 100px;
+}
